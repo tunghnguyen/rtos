@@ -1,2 +1,2 @@
-# rtos
+# RTOS
 RTOS Time Operating System
